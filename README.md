@@ -1,0 +1,2 @@
+# knn
+künstliche neuronales netz
